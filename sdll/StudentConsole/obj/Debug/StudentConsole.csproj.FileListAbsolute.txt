@@ -1,0 +1,10 @@
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\obj\Debug\StudentConsole.csprojAssemblyReference.cache
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\obj\Debug\StudentConsole.csproj.CoreCompileInputs.cache
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\bin\Debug\StudentConsole.exe.config
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\bin\Debug\StudentConsole.exe
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\bin\Debug\StudentConsole.pdb
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\bin\Debug\StudentDLL.dll
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\bin\Debug\StudentDLL.pdb
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\obj\Debug\StudentConsole.csproj.CopyComplete
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\obj\Debug\StudentConsole.exe
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentConsole\obj\Debug\StudentConsole.pdb

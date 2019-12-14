@@ -1,0 +1,6 @@
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentDLL\bin\Debug\StudentDLL.dll
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentDLL\bin\Debug\StudentDLL.pdb
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentDLL\obj\Debug\StudentDLL.csprojAssemblyReference.cache
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentDLL\obj\Debug\StudentDLL.csproj.CoreCompileInputs.cache
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentDLL\obj\Debug\StudentDLL.dll
+C:\Users\Khlypavka.Bogdan\source\repos\sdll\StudentDLL\obj\Debug\StudentDLL.pdb
